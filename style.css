@@ -182,8 +182,9 @@ header {
 }
 
 .yale-art-logo img{
-  width: 60px;
-  height: 60px;
+  width: 50px;
+  height: 35px;
+  margin-top:10px;
 }
 
 .banner-img {
@@ -330,7 +331,7 @@ header {
 
 .social-icons img {
   width: 30px;
-  height:30px;
+  height: 30px;
 }
 
 .footer ul {
